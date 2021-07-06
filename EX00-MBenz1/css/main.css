@@ -1,0 +1,71 @@
+body{
+	font-family: 'Girassol', cursive;
+}
+img{
+	max-width: 80%;
+}
+.krona{
+	font-family: 'Krona One', sans-serif;
+}
+.lato{
+	font-family: 'Lato', sans-serif;
+}
+.green{
+	color: #35ED2D;
+}
+.gris{
+	background-color: #eee;
+}	
+a,.red{
+	color: red;
+}
+.blue{
+	color: blue;
+}
+.orange{
+	color: #F28907;
+}
+.esp-der{
+	margin-left: 3em;
+}
+.espacio-arriba{
+	margin-top: 150px;
+}
+.quitar-float{
+	float: none;
+}
+.no-lista li{
+	list-style-type: none;
+}
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+.padding-large{
+	padding: 5px 10px;
+}
+.up{
+	vertical-align: top;
+}
+.centro{
+	vertical-align: middle;	
+}
+.inline{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+.medium{
+	font-size: 1em;
+}
+.small{
+	font-size: .5em;
+}
+.grande{
+	font-size: 1.5em;
+}
+.retraso3{
+	-webkit-animation-delay: 3s;
+	-moz-animation-delay: 3s;
+	animation-delay: 3s;
+}
