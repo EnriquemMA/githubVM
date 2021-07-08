@@ -22,7 +22,7 @@ html{
 	border-radius: 4em; /*esquina circular*/
 	position: relative;
 	/*padding: 1.8em;*/
-	overflow: scroll;
+	/*overflow: scroll;*/
 }
 .content{
 		padding: 1em;
